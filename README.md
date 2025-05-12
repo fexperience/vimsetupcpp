@@ -3,7 +3,7 @@
 ## 1. Cài Vim/GVim
 
 - **Windows**: tải GVim tại [đây](https://www.vim.org/download.php)  
-- Cần **MinGW** và đã path biến
+- Cần **[MinGW](https://sourceforge.net/projects/mingw/)**  và đã path biến
 - Cài đặt [ Font Nerd](https://www.nerdfonts.com/font-downloads)
 
 ## 2. Tạo tệp cấu hình
